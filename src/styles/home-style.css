@@ -1,0 +1,14 @@
+#home{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;;
+    align-items: center;
+    overflow: scroll;
+    padding-block-start: 10vh;
+}
+
+#table{
+    margin-block: 5vh;
+}
